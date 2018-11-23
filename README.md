@@ -1,3 +1,5 @@
+GitHub Pages URL for online view: https://olgakutovaya.github.io/cards-use-react-semantic-fetch-blob/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
